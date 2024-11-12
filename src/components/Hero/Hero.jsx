@@ -12,7 +12,7 @@ const Hero = () => {
                         data-aos-delay="300"
                         className="font-bold text-3xl"
                     >
-                        Search Your Destination
+                        Search Your Dream Place
                     </p>
                 </div>
             <div className="bg-white rounded-md p-6 w-full max-w-3xl relative shadow-lg">
