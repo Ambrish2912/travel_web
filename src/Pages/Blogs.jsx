@@ -1,5 +1,5 @@
 import React from "react";
-import BlogsComp from "../components/BlogsComp/BlogsComp.jsx";
+import BlogsComp from "../components/BlogsComp/BlogsComp";
 
 const Blogs = () => {
   return (
