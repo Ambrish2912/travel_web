@@ -1,7 +1,7 @@
 import React from "react";
 import video from "../assets/HomeScreen.mp4";
 import Hero from "../components/Hero/Hero";
-import Places from "../components/Places/places";
+// import Places from "../components/Places/places";
 import BannerImg from "../components/BannerImg/BannerImg";
 import Poster from "../assets/Poster.jpg";
 import Blogs from "./Blogs";
@@ -24,7 +24,7 @@ const Home = () => {
           </video>
           <Hero />
         </div>
-        <Places />
+        {/* <Places /> */}
         <BannerImg img={Poster} />
         <Blogs />
         <Banner />
